@@ -1,16 +1,3 @@
 # cai-memory-block
 
-This is a userscript initiated from [@violentmonkey/generator-userscript](https://github.com/violentmonkey/generator-userscript).
-
-## Development
-
-``` sh
-# Compile and watch
-$ npm run dev
-
-# Build script
-$ npm run build
-
-# Lint
-$ npm run lint
-```
+Add a block next to the chat for keeping context information
